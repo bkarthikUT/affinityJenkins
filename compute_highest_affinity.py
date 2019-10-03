@@ -41,6 +41,3 @@ def reduce_code_coverage():
     print("Hopefully this reduces the test code coverage")
     print("Hopefully this reduces the test code coverage")
     print("Hopefully this reduces the test code coverage")
-    print("Hopefully this reduces the test code coverage")
-    print("Hopefully this reduces the test code coverage")
-    print("Hopefully this reduces the test code coverage")
